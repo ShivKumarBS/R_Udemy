@@ -1,0 +1,11 @@
+What is a vector?
+Created some vectors: c(), seq(), rep()
+Check types: is.numeric(), is.double, is.character()....
+Using the [] brackets
+Vectorized operations
+Power of vectorized operations
+Functions in R
+Packages in R
+
+? - usage (for help)
+CRAN (packages repository)
